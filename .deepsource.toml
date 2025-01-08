@@ -1,7 +1,7 @@
 version = 1
 
 test_patterns = [
-  'gfi/test_*.py',
+  'gfi/test_*.py',sdfgsdf
 ]
 
 [[analyzers]]
