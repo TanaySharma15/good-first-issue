@@ -8,7 +8,7 @@
         <slot></slot>
       </span>
     </span>
-  </header>
+  </header>Hi there
 </template>
 
 <script setup>
